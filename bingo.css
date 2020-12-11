@@ -1,0 +1,75 @@
+#window{
+    margin: auto;
+    width: 1000px;
+    height: 600px;
+}
+
+#Playing{
+    float: left;
+    width: 65%;
+    height: 100%;
+}
+
+#game{
+    margin: auto;
+    border: 1px;
+    border-style: solid;
+    border-collapse: separate;
+    border-spacing: 0px;
+}
+
+#game td{
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+    width: 500px;
+}
+
+#count-area{
+    font-size: 50px;
+    font-family: "游ゴシック";
+    height: 100px;
+}
+
+#display{
+    font-size: 350px;
+    font-family: "游ゴシック";
+    line-height: 1px;
+    height: 400px;
+}
+
+#StartButton, #StopButton{
+    border-style: none;
+    font-size: 30px;
+    font-family: "游ゴシック";
+    width:500px;
+    height:75px;
+}
+
+#StartButton{
+    background-color: yellowgreen;
+}
+
+#Numbering{
+    width: 35%;
+    height: 100%;
+    float:left;
+}
+
+#numbers{
+    margin: auto;
+    border: 1px;
+    border-style: solid;
+    border-collapse: separate;
+    border-spacing: 0px;
+}
+
+#numbers td{
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+    font-size: 20px;
+    font-family: "游ゴシック";
+    width: 35px;
+    height: 35px;
+}
